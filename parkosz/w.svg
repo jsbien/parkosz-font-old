@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1000"
@@ -15,7 +14,7 @@
    id="svg2987"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="Nowy dokument 1">
+   sodipodi:docname="w.svg">
   <defs
      id="defs5498" />
   <sodipodi:namedview
@@ -31,7 +30,7 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="0.908"
-     inkscape:cx="279.32825"
+     inkscape:cx="136.7071"
      inkscape:cy="367.70668"
      inkscape:window-x="0"
      inkscape:window-y="25"
@@ -53,23 +52,10 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     style="display:none">
-    <image
-       y="180.96735"
-       x="-58.647556"
-       id="image3002"
-       xlink:href="file:///home/maciek/pjte/parkosz/w.png"
-       height="674.04077"
-       width="985.1366" />
-  </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"

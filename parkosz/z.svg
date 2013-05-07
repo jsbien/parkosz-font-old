@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1000"
@@ -31,7 +30,7 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="0.64205296"
-     inkscape:cx="695.03394"
+     inkscape:cx="493.33718"
      inkscape:cy="408.56593"
      inkscape:window-x="0"
      inkscape:window-y="25"
@@ -57,19 +56,6 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     style="display:none">
-    <image
-       y="482.2511"
-       x="377.64413"
-       id="image3000"
-       xlink:href="file:///home/maciek/pjte/parkosz/z.png"
-       height="317.7489"
-       width="258.90652" />
-  </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
