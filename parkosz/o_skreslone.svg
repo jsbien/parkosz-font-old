@@ -56,7 +56,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -65,13 +65,13 @@
      id="layer6"
      inkscape:label="Warstwa">
     <path
-       style="fill:#000000;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 422.08356,730.55182 C 620,729.99998 710,510 710,430 710,380.18916 699.74742,330.37833 677.38526,290.78125 L 725,235 700,210 654.786,259.1094 C 627.65916,229.00247 589.87582,210 540,210 390,210 270,410 270,520 c 0,56.34493 9.51232,103.88229 30,140 l -52,58.8 27,26.2 47.66489,-53.71974 c 24.43388,25.24573 57.86667,39.38742 99.41867,39.27156 z"
        id="path3257"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ssccccssccccs" />
     <path
-       style="fill:#ffffff;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 370.87548,637.55676 c 5.12365,47.32005 22.17977,63.87098 60.55311,63.40249 C 510,700 620,534.11597 620,370 c 0,-4.8229 0.11104,-9.73883 0.2292,-14.68499 z M 616.51502,302.17046 C 609.37679,277.83981 590.13014,260 540,260 452.50489,260 374.46089,430.11987 369.3836,582.04939 z"
        id="path3259"
        inkscape:connector-curvature="0"
