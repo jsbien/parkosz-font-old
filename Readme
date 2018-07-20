@@ -1,3 +1,19 @@
-Semestralna praca zaliczeniowa Macieja Strzelczyka na zajęciach Podstawowe Jednostki Tekstów Elektronicznych 2012/2013 (1000-2M12PJT, Instytut Informatyki UW).
+The repository contains the font created by Maciej Strzelczyk. The
+goal was to create a cursive font for Kucała's edition of
+Parkosz's. For more information
+cf. https://bitbucket.org/jsbien/parkosz-font/wiki/Home.
 
-Eksperymentalny font zawierający znaki występujace w traktacie ortograficznym Parkosza (por. http://eprints.wbl.klf.uw.edu.pl/13/).
+
+The font is orphaned. Please feel free to fork and improve.
+
+
+The repository contains also several SVG files for characters occuring
+in "Nowy Karakter Polski", cf. e.g. http://bc.klf.uw.edu.pl/179/.
+
+
+Repozytorium zawiera wyniki semestralnej pracy zaliczeniowej Macieja
+Strzelczyka na zajęciach Podstawowe Jednostki Tekstów Elektronicznych
+2012/2013 (1000-2M12PJT, Instytut Informatyki UW), mianowicie
+eksperymentalny font zawierający znaki występujace w traktacie
+ortograficznym Parkosza oraz pliki SVG dla kilku znaków występujących
+w "Nowym Karakterze Polskim".
